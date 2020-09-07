@@ -1,0 +1,26 @@
+{
+  "name": "kimkero-text-search-engine",
+  "version": "0.0.1",
+  "description": "kimkero text search engine",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunovivid/Kimkero-Comics-Text-Search-Engine.git"
+  },
+  "author": "sunovivid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunovivid/Kimkero-Comics-Text-Search-Engine/issues"
+  },
+  "homepage": "https://github.com/sunovivid/Kimkero-Comics-Text-Search-Engine#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
